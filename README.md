@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/FUenal/fossil_fuel_policy_nlp/main?labpath=index.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FUenal/fossil_fuel_policy_nlp/main?labpath=index.ipynb)
 
 # Natural Language Processing for climate change policy classification
 
