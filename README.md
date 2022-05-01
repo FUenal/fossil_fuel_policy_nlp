@@ -1,8 +1,12 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FUenal/fossil_fuel_policy_nlp/main?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FUenal/fossil_fuel_policy_nlp/main?filepath=index.ipynb)
 
 # Natural Language Processing for climate change policy classification
 
 As part of the [Fossil Fuel Policy Tracking App](https://fossilfueltracker.org), I used Natural Language Processing to classify specific policy text data. Understanding how supply-side fossil fuel policies develop across countries is critical to ensure timely and effective climate actions across multiple levels and scales. Studying climate change supply-side fossil fuel policies has become increasingly difficult, particularly given the increasing volume of potentially relevant data available, the validity of existing methods handling large volumes of data, and comprehensiveness of assessing ongoing developments over time. In this project, I utilized machine learning to assist the FFNPT Initiative, collaborators, and researchers when conducting policy research using text as data. Specifically, I trained an Artificial Neural Network model to classify policy texts using data from various sources such as news-articles and official government databases. The main goal of this model is to take text data as input and be able to produce a label to classify these as ‘Supply-side related’, ’Demand-side related’, or ‘Non-climate policies’ with a certain probability. Having such an automated classification model saves a significant amount of time and resources and allows for a real-time tracking of fossil-fuel policy developments.
+
+This reposiroty contains all the software for reproducing the paper, and some sample documents. It can be executed online as a binder notebook, simply from your browser by clicking this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FUenal/fossil_fuel_policy_nlp/main?filepath=index.ipynb).
+
+Due to its size, the full dataset has been made available separately via Zenodo, [here](https://doi.org/10.5281/zenodo.3911168). The software comes with a subset of the full dataset, and can be demonstrated without any additional changes. 
 
 The Figure below gives an abstract overview of the NLP Pipepline.
 
