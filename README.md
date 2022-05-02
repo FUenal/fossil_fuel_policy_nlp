@@ -6,7 +6,7 @@ As part of the [Fossil Fuel Policy Tracking App](https://fossilfueltracker.org),
 
 This reposiroty contains all the software for reproducing the paper, and some sample documents. It can be executed online as a binder notebook, simply from your browser by clicking this button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FUenal/fossil_fuel_policy_nlp/main?filepath=index.ipynb).
 
-Due to its size, the full dataset has been made available separately via Zenodo, [here](https://doi.org/10.5281/zenodo.3911168). The software comes with a subset of the full dataset, and can be demonstrated without any additional changes. 
+Due to its size, the full dataset has been made available separately via Zenodo, [here](https://github.com/FUenal/fossil_fuel_policy_nlp). The software comes with a subset of the full dataset, and can be demonstrated without any additional changes. 
 
 The Figure below gives an abstract overview of the NLP Pipepline.
 
