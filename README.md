@@ -49,4 +49,5 @@ In the folder 'Python Scripts' every script in the pipeline is contained.
 `tensorboard_launch.py` - Launch tensorboard from stored model  
 
 ## Source
-Source code adapted from Shashi Badloe:  https://link.springer.com/article/10.1007%2Fs10113-020-01677-8
+Source code adapted from: R. Biesbroek, S. Badloe, I. N. Athanasiadis, Machine learning for research on climate change adaptation policy integration: an exploratory UK case study, Regional Environmental Change, 20:85, 2020
+
