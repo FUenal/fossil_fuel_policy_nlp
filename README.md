@@ -51,5 +51,6 @@ Source code adapted from: R. Biesbroek, S. Badloe, I. N. Athanasiadis, Machine l
 
 ## Sponsor
 [Fossil Fuel Non-Proliferation Initiative](https://fossilfueltreaty.org/)
+
 ![Logo](FF-Initiative_blue_text-01.png)
 
